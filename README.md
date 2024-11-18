@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Earthlings 👋
+
+- 🌱 I’m currently learning anything about programming
+- 💬 Ask me about programming, I will be happy :)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like watching movies! and of course coding too XD
 
 <!--
 **krispachi/krispachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
