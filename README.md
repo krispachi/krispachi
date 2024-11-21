@@ -5,6 +5,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like watching movies! and of course coding too XD
 
+Don't you want to check https://krispachi.github.io? 🌸🍀
+
 <!--
 **krispachi/krispachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
